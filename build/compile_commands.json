@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/User/Desktop/Projects/Project 'GameEngine'/build",
+  "command": "D:\\Development\\mingw64\\bin\\g++.exe  @CMakeFiles/GameEngine.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GameEngine.dir\\src\\callback.cpp.obj -c \"C:\\Users\\User\\Desktop\\Projects\\Project 'GameEngine'\\src\\callback.cpp\"",
+  "file": "C:/Users/User/Desktop/Projects/Project 'GameEngine'/src/callback.cpp",
+  "output": "CMakeFiles/GameEngine.dir/src/callback.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/Projects/Project 'GameEngine'/build",
+  "command": "D:\\Development\\mingw64\\bin\\gcc.exe  @CMakeFiles/GameEngine.dir/includes_C.rsp -g -o CMakeFiles\\GameEngine.dir\\src\\glad.c.obj -c \"C:\\Users\\User\\Desktop\\Projects\\Project 'GameEngine'\\src\\glad.c\"",
+  "file": "C:/Users/User/Desktop/Projects/Project 'GameEngine'/src/glad.c",
+  "output": "CMakeFiles/GameEngine.dir/src/glad.c.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/Projects/Project 'GameEngine'/build",
+  "command": "D:\\Development\\mingw64\\bin\\g++.exe  @CMakeFiles/GameEngine.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GameEngine.dir\\src\\main.cpp.obj -c \"C:\\Users\\User\\Desktop\\Projects\\Project 'GameEngine'\\src\\main.cpp\"",
+  "file": "C:/Users/User/Desktop/Projects/Project 'GameEngine'/src/main.cpp",
+  "output": "CMakeFiles/GameEngine.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/Projects/Project 'GameEngine'/build",
+  "command": "D:\\Development\\mingw64\\bin\\g++.exe  @CMakeFiles/GameEngine.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GameEngine.dir\\src\\prepare.cpp.obj -c \"C:\\Users\\User\\Desktop\\Projects\\Project 'GameEngine'\\src\\prepare.cpp\"",
+  "file": "C:/Users/User/Desktop/Projects/Project 'GameEngine'/src/prepare.cpp",
+  "output": "CMakeFiles/GameEngine.dir/src/prepare.cpp.obj"
+}
+]
